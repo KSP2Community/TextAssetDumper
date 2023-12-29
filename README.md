@@ -2,7 +2,7 @@
 Dumps all text assets from addressables and all localizations.
 
 ## Requirements
-- [SpaceWarp 1.6.0](https://github.com/SpaceWarpDev/SpaceWarp/releases) or later.
+- [SpaceWarp 1.7.0](https://github.com/SpaceWarpDev/SpaceWarp/releases) or later.
 
 ## Installation
 1. Download the latest version from the [releases page](https://github.com/KSP2Community/TextAssetDumper/releases).
