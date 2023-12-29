@@ -6,7 +6,7 @@ Dumps all text assets from addressables and all localizations.
 
 ## Installation
 1. Download the latest version from the [releases page](https://github.com/KSP2Community/TextAssetDumper/releases).
-2. Unzip the archive into your KSP installation folder.
+2. Unzip the archive into your KSP2 installation folder.
 
 ## Usage
 
