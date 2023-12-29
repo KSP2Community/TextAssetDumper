@@ -1,0 +1,23 @@
+{
+  "spec": "2.0",
+  "mod_id": "TextAssetDumper",
+  "author": "Cheese;munix",
+  "name": "Text Asset Dumper",
+  "description": "Dumps all text assets from addressables and all localizations.",
+  "source": "https://github.com/KSP2Community/TextAssetDumper",
+  "version": "2.0.0",
+  "version_check": "https://raw.githubusercontent.com/KSP2Community/TextAssetDumper/main/plugin_template/swinfo.json",
+  "ksp2_version": {
+    "min": "0.2.0",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.7.0",
+        "max": "*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{B4F3FD21-4A18-471A-9DD0-3756B3CBEFA2}") = "TextAssetDumper", "src/TextAssetDumper/TextAssetDumper.csproj", "{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		DeployAndRun|Any CPU = DeployAndRun|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}.DeployAndRun|Any CPU.ActiveCfg = DeployAndRun|Any CPU
+		{7BC53D94-4B06-4265-9EC1-51AB85B49A6A}.DeployAndRun|Any CPU.Build.0 = DeployAndRun|Any CPU
+	EndGlobalSection
+EndGlobal
+
