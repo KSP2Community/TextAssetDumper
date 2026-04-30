@@ -6,7 +6,7 @@
   "description": "Dumps all text assets from addressables and all localizations.",
   "source": "https://github.com/KSP2Community/TextAssetDumper",
   "version": "3.0.0",
-  "version_check": "",
+  "version_check": "https://raw.githubusercontent.com/KSP2Community/TextAssetDumper/refs/heads/main/Assets/TextAssetDumper/swinfo.json",
   "ksp2_version": {
     "min": "0.2.3",
     "max": "*"

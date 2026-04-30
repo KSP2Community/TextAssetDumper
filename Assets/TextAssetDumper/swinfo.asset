@@ -17,7 +17,7 @@ MonoBehaviour:
   author: munix
   description: Dumps all text assets from addressables and all localizations.
   version: 3.0.0
-  versionCheck: 
+  versionCheck: https://raw.githubusercontent.com/KSP2Community/TextAssetDumper/refs/heads/main/Assets/TextAssetDumper/swinfo.json
   minKsp2Version: 0.2.3
   maxKsp2Version: '*'
   source: https://github.com/KSP2Community/TextAssetDumper
